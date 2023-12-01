@@ -14,7 +14,7 @@ namespace Lab7
 
             double a = 1;  // коэффициент при x^2
             double b = 2; // коэффициент при x
-            double c = -10/0;  // свободный член
+            double c = 0;  // свободный член
 
             List<double> roots = SolveQuadraticEquation(a, b, c);
 
