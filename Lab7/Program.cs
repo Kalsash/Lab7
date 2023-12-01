@@ -10,6 +10,8 @@ namespace Lab7
     {
         static void Main(string[] args)
         {
+            // VCS Trigger 
+
             double a = 1;  // коэффициент при x^2
             double b = 2; // коэффициент при x
             double c = -10;  // свободный член
