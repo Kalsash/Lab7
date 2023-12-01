@@ -31,7 +31,6 @@ namespace Lab7
                 Console.WriteLine("Корни уравнения: x1 = {0}, x2 = {1}", roots[0], roots[1]);
             }
         }
-
         static List<double> SolveQuadraticEquation(double a, double b, double c)
         {
             List<double> roots = new List<double>();
